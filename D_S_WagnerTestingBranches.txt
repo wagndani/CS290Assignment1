@@ -1,1 +1,3 @@
 This sentence was done prior to making any branch.
+
+This sentence was written as part of a branch.
